@@ -1,0 +1,6 @@
+name: NoToggleSwimming
+main: notoggleswimming\Main
+version: 1.0.0
+load: POSTWORLD
+api:
+  - 4.0.0

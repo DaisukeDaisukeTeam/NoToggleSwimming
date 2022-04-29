@@ -1,7 +1,7 @@
 # NoToggleSwimming
 PocketMine-MP plugin that disables swimming toggle
 
-#### plugin.yml
+#### config.yml
 ```yml
 # blacklist
 # whitelist
